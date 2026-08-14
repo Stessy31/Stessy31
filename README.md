@@ -39,11 +39,16 @@ I'm an Information Technology student interested in software development, machin
 
 A software-based system designed to monitor crowd conditions and help identify potentially unsafe situations using AI-based analysis.
 
-### ⌨️ Typing Performance Analyzer
-A Python-based application that analyzes typing speed, accuracy, and overall typing performance.
+### ⌨️ TypeMaster Pro
 
-### 🔍 Fake Job Posting Detection
-A machine learning project that identifies potentially fraudulent job postings using text analysis and classification techniques.
+**Real-Time Typing Performance Analyzer**
+
+A Python-based desktop application that provides real-time typing analysis with WPM, accuracy, mistake tracking, performance grading, and historical progress visualization.
+
+### 🎯 CareerLens
+**Resume & Job Compatibility Platform**
+
+Resume & Job Compatibility Platform that analyzes resumes against job descriptions to identify matching skills, skill gaps, and career recommendations.
 
 ---
 
